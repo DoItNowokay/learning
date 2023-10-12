@@ -1,4 +1,4 @@
 # learning
 learning git
 <br>
-author simroop
+author simroop singh
